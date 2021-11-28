@@ -3,7 +3,7 @@
 An Iranian Music Bot :)<br>
 
 Thank you for reading this toturial.<br>
-if you have any problem of using app contact me on [Instagram](https://www.instagram.com/amirhosseinf79)<br>
+if you have any problem of using app contact me on [Instagram](https://instagram.com/amirhosseinf79)<br>
 
 ## Sections
 - [Invite Link](#invite-link)
@@ -48,4 +48,4 @@ Invite Bot via [Invite Link](https://discord.com/api/oauth2/authorize?client_id=
 
 ### Important
 Due to service limitations, a limited number of users can invite Bot to their servers<br>
-DM me on [Instagram](https://www.instagram.com/amirhosseinf79) for more information
+DM me on [Instagram](https://instagram.com/amirhosseinf79) for more information
