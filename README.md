@@ -4,7 +4,7 @@ An Iranian Music Bot :)<br>
 
 Thank you for reading this toturial.<br>
 if you have any problem of using app contact me on [Instagram](https://www.instagram.com/amirhosseinf79)<br>
-Invite Bot via [Invite Link](https://discord.com/api/oauth2/authorize?client_id=888404360344797255&permissions=2150886608&scope=bot)<br><br>
+Invite Bot via [Invite Link](https://discord.com/api/oauth2/authorize?client_id=888404360344797255&permissions=2150886608&scope=bot)<br>
 
 ## Sections
 - [Features](#features)
