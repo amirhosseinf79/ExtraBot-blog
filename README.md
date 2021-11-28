@@ -3,7 +3,7 @@
 An Iranian Music Bot :)<br>
 
 Thank you for reading this toturial.<br>
-if you have any problem of using app contact me on [Instagram](https://instagram.com/amirhosseinf79)<br>
+If you have any problem of using app contact me on [Instagram](https://instagram.com/amirhosseinf79)<br>
 
 - [Invite Link](#invite-link)
   - [Important](#important)
