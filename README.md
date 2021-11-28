@@ -9,7 +9,7 @@ if you have any problem of using app contact me on [Instagram](https://www.insta
 - [Invite Link](#invite-link)
 - [Features](#features)
 - [Commands](#commands)
-- [Premium](#premium)
+  - [Premium](#premium)
 
 ## Features
 1. Play Music from Spotify, **YouTube** & SoundCloud
