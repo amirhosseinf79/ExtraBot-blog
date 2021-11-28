@@ -48,4 +48,4 @@ Invite Bot via [Invite Link](https://discord.com/api/oauth2/authorize?client_id=
 
 ### Important
 Due to service limitations, a limited number of users can invite Bot to their servers<br>
-DM me for more information
+DM me for more information [Instagram](https://www.instagram.com/amirhosseinf79)
