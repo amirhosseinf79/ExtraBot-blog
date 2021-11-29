@@ -19,7 +19,7 @@ If you have any problem of using app contact me on [Instagram](https://instagram
 5. And more useful features...
 
 ## Commands
-***Common Commands:***
+***Common Commands:***<br>
 **-setup**: Create Special music channel to control Extra Music<br>
 <br>
 **-autoplay**: Toggle Smart AutoPlay On/Off<br>
@@ -30,7 +30,7 @@ If you have any problem of using app contact me on [Instagram](https://instagram
 **-d [yt|sp|sc]**: Delete a special playlist from your favourites<br>
 **-rand [truth]**: Get a random question for Truth or date game<br>
 <br>
-***Music Controllers:***
+***Music Controllers:***<br>
 You can control music fully by reaction engine but here are some commands can help you:<br>
 **-queue**: Get Current active playlist<br>
 **-shuffle**: Shuffle current active playlist<br>
