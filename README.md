@@ -31,14 +31,7 @@ If you have any problem of using app contact me on [Instagram](https://instagram
 **-rand [truth]**: Get a random question for Truth or date game<br>
 <br>
 ***Music Controllers:***<br>
-You can control music fully by reaction engine but here are some commands can help you:<br>
-**-queue**: Get Current active playlist<br>
-**-shuffle**: Shuffle current active playlist<br>
-**-s**: Clear current active playlist<br>
-**-n**: Skip current song<br>
-**-p/-r**: Pause/Resume current song<br>
-**-l**: Make current song loop Enabled/Disabled<br>
-**-song**: Get current song playing time
+[Click Here to See Details]()
 
 ## Premium
 I have no plan for making bot premium yet :)
