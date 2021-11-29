@@ -19,25 +19,26 @@ If you have any problem of using app contact me on [Instagram](https://instagram
 5. And more useful features...
 
 ## Commands
-***Common Commands:***<br>
-**-help**: Bot Simple help.<br>
-**-setup**: Create Special music channel to control Extra Music.<br>
-<br>
-**-ping**: Get bot Latency Status.<br>
-**-f [playlist_url]**: Add a playlist to your favourite.<br>
-**-d [yt|sp|sc]**: Delete a special playlist from your favourites.<br>
-**-rand [truth]**: Get a random question for Truth or date game.<br>
-<br>
-***Music Controllers:***<br>
-You can control music fully by reaction engine but here are some commands can help you:<br>
-**-queue**: Get Current active playlist.<br>
-**-shuffle**: Shuffle current active playlist.<br>
-**-s**: Clear current active playlist.<br>
-**-n**: Skip current song.<br>
-**-p/-r**: Pause/Resume current song.<br>
-**-l**: Make current song loop Enabled/Disabled.<br>
-**-seek [mm:ss|ss]**: seek current song to special time.<br>
-**-song**: Get current song playing time.
+***Common Commands:***
+**-setup**: Create Special music channel to control Extra Music
+
+**-autoplay**: Toggle Smart AutoPlay On/Off
+**-seek [mm:ss|ss]**: seek current song to special time
+
+**-ping**: Get bot Latency Status
+**-f [playlist_url]**: Add a playlist to your favourite
+**-d [yt|sp|sc]**: Delete a special playlist from your favourites
+**-rand [truth]**: Get a random question for Truth or date game
+
+***Music Controllers:***
+You can control music fully by reaction engine but here are some commands can help you:
+**-queue**: Get Current active playlist
+**-shuffle**: Shuffle current active playlist
+**-s**: Clear current active playlist
+**-n**: Skip current song
+**-p/-r**: Pause/Resume current song
+**-l**: Make current song loop Enabled/Disabled
+**-song**: Get current song playing time
 
 ## Premium
 I have no plan for making bot premium yet :)
