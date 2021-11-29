@@ -19,19 +19,7 @@ If you have any problem of using app contact me on [Instagram](https://instagram
 5. And more useful features...
 
 ## Commands
-***Common Commands:***<br>
-**-setup**: Create Special music channel to control Extra Music<br>
-<br>
-**-autoplay**: Toggle Smart AutoPlay On/Off<br>
-**-seek [mm:ss|ss]**: seek current song to special time<br>
-<br>
-**-ping**: Get bot Latency Status<br>
-**-f [playlist_url]**: Add a playlist to your favourite<br>
-**-d [yt|sp|sc]**: Delete a special playlist from your favourites<br>
-**-rand [truth]**: Get a random question for Truth or date game<br>
-<br>
-***Music Controllers:***<br>
-[Click Here to See Details]()
+[Click Here to See Details](https://github.com/amirhosseinf79/ExtraBot-blog/wiki)
 
 ## Premium
 I have no plan for making bot premium yet :)
