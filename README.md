@@ -1,8 +1,8 @@
 
 <style>
   body{
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #0d1117;
+    color: #c9d1d9;
   }
 </style>
 
