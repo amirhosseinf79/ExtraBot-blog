@@ -4,6 +4,9 @@
     background-color: #0d1117;
     color: #c9d1d9;
   }
+  a{
+    color: #58a6ff
+  }
 </style>
 
 # Welcome to Extra Bot
