@@ -3,7 +3,9 @@
 An Iranian Music Bot :)<br>
 
 Thank you for reading this toturial.<br>
-If you have any problem of using app [Email Me](mailto:amirhosseinfr79@gmail.com)<br>
+If you have any problem of using app
+[Submit New Issue](https://github.com/amirhosseinf79/PiXel-Intelligence/issues/new/choose)
+or [Email Me](mailto:amirhosseinfr79@gmail.com)<br>
 
 - [Invite Link](#invite-link)
   - [Important](#important)
