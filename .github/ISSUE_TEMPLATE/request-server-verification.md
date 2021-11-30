@@ -2,7 +2,7 @@
 name: Request Server Verification
 about: Request to Verify your Server
 title: ''
-labels: ''
+labels: Verification
 assignees: amirhosseinf79
 
 ---
