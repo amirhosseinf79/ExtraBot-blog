@@ -2,6 +2,7 @@
 <style>
   body{
     background-color: #000000;
+    color: #ffffff;
   }
 </style>
 
