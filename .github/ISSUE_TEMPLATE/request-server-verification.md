@@ -1,7 +1,7 @@
 ---
 name: Request Server Verification
 about: Request to Verify your Server
-title: ''
+title: 'Verify Server [your_server_name]'
 labels: Verification
 assignees: amirhosseinf79
 
