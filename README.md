@@ -24,7 +24,27 @@ or [Email Me](mailto:amirhosseinfr79@gmail.com)<br>
 5. And more useful features...
 
 ## Commands
-[Click Here to See Details](https://github.com/amirhosseinf79/ExtraBot-blog/wiki)
+***Common Commands:***<br>
+**-setup**: Create Special music channel to control Extra Music<br>
+<br>
+**-autoplay**: Toggle Smart AutoPlay On/Off<br>
+**-seek [mm:ss|ss]**: seek current song to special time<br>
+<br>
+**-ping**: Get bot Latency Status<br>
+**-f [playlist_url]**: Add a playlist to your favourite<br>
+**-d [yt|sp|sc]**: Delete a special playlist from your favourites<br>
+**-rand [truth]**: Get a random question for Truth or date game<br>
+<br>
+***Music Controllers:***<br>
+You can control music fully by reaction engine but here are some commands can help you:<br>
+**-queue**: Get Current active playlist<br>
+**-shuffle**: Shuffle current active playlist<br>
+**-s**: Clear current active playlist<br>
+**-n**: Skip current song<br>
+**-b**: back to previous song
+**-p/-r**: Pause/Resume current song<br>
+**-l**: Make current song loop Enabled/Disabled<br>
+**-song**: Get current song playing time
 
 ## Premium
 I have no plan for making bot premium yet :)
@@ -36,3 +56,4 @@ Invite Bot via [Invite Link](https://discord.com/api/oauth2/authorize?client_id=
 Due to service limitations, a limited number of users can invite Bot to their servers<br>
 [Send your Request Directly here](https://github.com/amirhosseinf79/ExtraBot-blog/issues/new?assignees=amirhosseinf79&labels=Verification&template=request-server-verification.md&title=Verify+Server+%5Byour_server_name%5D) or
 [Email Me](mailto:amirhosseinfr79@gmail.com) for more information
+
