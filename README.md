@@ -1,3 +1,10 @@
+
+<style>
+  body{
+    background-color: #000000;
+  }
+</style>
+
 # Welcome to Extra Bot
 
 An Iranian Music Bot :)<br>
