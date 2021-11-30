@@ -34,5 +34,5 @@ Invite Bot via [Invite Link](https://discord.com/api/oauth2/authorize?client_id=
 
 ### Important
 Due to service limitations, a limited number of users can invite Bot to their servers<br>
-[Send your Request Directrly here](https://github.com/amirhosseinf79/ExtraBot-blog/issues/new?assignees=amirhosseinf79&labels=Verification&template=request-server-verification.md&title=Verify+Server+%5Byour_server_name%5D) or
+[Send your Request Directly here](https://github.com/amirhosseinf79/ExtraBot-blog/issues/new?assignees=amirhosseinf79&labels=Verification&template=request-server-verification.md&title=Verify+Server+%5Byour_server_name%5D) or
 [Email Me](mailto:amirhosseinfr79@gmail.com) for more information
