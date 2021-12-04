@@ -29,7 +29,7 @@ or [Email Me](mailto:amirhosseinfr79@gmail.com)<br>
 <br>
 **-autoplay**: Toggle Smart AutoPlay On/Off<br>
 **-seek [mm:ss|ss]**: seek current song to special time<br>
-**-dl**: Get Music Download Link<br>
+**-dl** Get Music Download Link<br>
 <br>
 **-ping**: Get bot Latency Status<br>
 **-f [playlist_url]**: Add a playlist to your favourite<br>
