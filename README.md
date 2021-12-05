@@ -26,26 +26,26 @@ or [Email Me](mailto:amirhosseinfr79@gmail.com)<br>
 ## Commands
 ***Common Commands:***<br>
 **-setup**: Create Special music channel to control Extra Music<br>
+**-rand [truth]**: Get a random question for Truth or Dare game<br>
+**-ping**: Get bot Latency Status<br>
 <br>
+***Music Controllers(Reaction is not Supported):***<br>
+**-queue**: Get Current active playlist<br>
 **-autoplay**: Toggle Smart AutoPlay On/Off<br>
-**-seek [mm:ss|ss]**: seek current song to special time<br>
+**-f [url]**: Add/remove a supported url to your favorite<br>
+**-seek [mm:ss or ss]**: seek current song to special time<br>
 **-dl** Get Music Download Link<br>
 <br>
-**-ping**: Get bot Latency Status<br>
-**-f [playlist_url]**: Add a playlist to your favourite<br>
-**-d [yt|sp|sc]**: Delete a special playlist from your favourites<br>
-**-rand [truth]**: Get a random question for Truth or date game<br>
-<br>
-***Music Controllers:***<br>
-You can control music fully by reaction engine but here are some commands can help you:<br>
-**-queue**: Get Current active playlist<br>
+***Music Controllers(Reaction is Supported):***<br>
+You can use following commands just usig reaction to player:<br>
+**-l**: Make current Playing Music loop Enabled/Disabled<br>
 **-shuffle**: Shuffle current active playlist<br>
-**-s**: Clear current active playlist<br>
-**-n**: Skip current song<br>
-**-b**: back to previous song
-**-p/-r**: Pause/Resume current song<br>
-**-l**: Make current song loop Enabled/Disabled<br>
-**-song**: Get current song playing time
+**-song**: Get current Music playing time<br>
+<br>
+**-s**: Clear current active playlist(use double time to stop music)<br>
+**-n**: Skip current playing Music<br>
+**-b**: Back to previous Music<br>
+**-p/-r**: Pause/Resume current song
 
 ## Premium
 I have no plan for making bot premium yet :)
