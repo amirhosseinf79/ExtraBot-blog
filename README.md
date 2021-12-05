@@ -43,7 +43,7 @@ You can use following commands just usig reaction to player:<br>
 **-song**: Get current Music playing time<br>
 <br>
 **-s**: Clear current active playlist(use double time to stop music)<br>
-**-n**: Skip current playing Music<br>
+**-n [music_queue_number or empty]**: Skip current playing Music<br>
 **-b**: Back to previous Music<br>
 **-p/-r**: Pause/Resume current song
 
