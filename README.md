@@ -33,7 +33,7 @@ or [Email Me](mailto:amirhosseinfr79@gmail.com)<br>
 **-queue**: Get Current active playlist<br>
 **-autoplay**: Toggle Smart AutoPlay On/Off<br>
 **-f [url]**: Add/remove a supported url to your favorite<br>
-**-fl**: Get your favorite Music List<br>
+**-fl [Query or Empty]**: Get your favorite Music List<br>
 **-seek [mm:ss or ss]**: seek current song to special time<br>
 **-dl** Get Music Download Link<br>
 <br>
